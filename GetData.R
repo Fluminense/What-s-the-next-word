@@ -4,7 +4,7 @@ library(stringr)
 library(SnowballC)
 
 # Set the directory
-setwd("C:/Users/rodrigoap/Documents/Rodrigo Backup/Coursera/Capstone Project/en_US/")
+setwd("Capstone Project/en_US/")
 
 # Set connections and reading lines
 conNews<-file("en_US.news.txt", "rb")
