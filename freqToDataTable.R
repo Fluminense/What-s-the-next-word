@@ -45,16 +45,16 @@ quadrigramDT[,words:=NULL]
 
 
 save(quadrigramDT,
-     file = "C://Users/rodrigoap/Documents/Rodrigo Backup/Coursera/Capstone Project/CapstoneShiny/data/quadrigramDT.rdata")
+     file = "Capstone Project/CapstoneShiny/data/quadrigramDT.rdata")
 
 save(trigramDT,
-     file = "C://Users/rodrigoap/Documents/Rodrigo Backup/Coursera/Capstone Project/CapstoneShiny/data/trigramDT.rdata")
+     file = "Capstone Project/CapstoneShiny/data/trigramDT.rdata")
 
 save(bigramDT,
-     file = "C://Users/rodrigoap/Documents/Rodrigo Backup/Coursera/Capstone Project/CapstoneShiny/data/bigramDT.rdata")
+     file = "Capstone Project/CapstoneShiny/data/bigramDT.rdata")
 
 save(unigramDT,
-     file = "C://Users/rodrigoap/Documents/Rodrigo Backup/Coursera/Capstone Project/CapstoneShiny/data/unigramDT.rdata")
+     file = "Capstone Project/CapstoneShiny/data/unigramDT.rdata")
 ##
 
 
